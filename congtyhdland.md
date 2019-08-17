@@ -6,11 +6,6 @@
 
 Link truy cập : [http://congtyhdland.com/wp-login.php](http://congtyhdland.com/wp-login.php)
 
-```
-ID : mymy
-Password: 123123
-
-```
 
 ### 2. Hướng dẫn upload bài viết.
 
